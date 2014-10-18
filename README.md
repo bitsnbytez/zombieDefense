@@ -39,7 +39,7 @@ Could also serve as a training simulator for the upcoming zombie apocolypse.
 Now I want to play the game!
 ============================
 Compile the source or download and extract the game.zip archive. Launch zombieDefense.exe and save mother brain...
-NOTE: You will need to first install XNA 4.0.
+NOTE: You must have XNA 4.0 installed in order to run the game.
 
 Download XNA 4.0
 ================
