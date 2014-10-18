@@ -16,9 +16,6 @@ Content\entity\mine\explode.xnb
 Content\entity\generator\damaged.xnb
 Content\entity\barricade\base1.xnb
 Content\entity\barricade\base2.xnb
-Content\towerfont.xnb
-Content\gamefont.xnb
-Content\gutterfont.xnb
 Content\zombie\walk2.xnb
 Content\entity\brain\entity.xnb
 Content\entity\mortar\barrel.xnb
@@ -27,3 +24,6 @@ Content\entity\mortar\base2.xnb
 Content\entity\mortar\bullet.xnb
 Content\entity\airstrike\base.xnb
 Content\circle.xnb
+Content\towerfont.xnb
+Content\gamefont.xnb
+Content\gutterfont.xnb

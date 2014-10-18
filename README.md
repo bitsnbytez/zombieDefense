@@ -35,3 +35,7 @@ Purpose:
 ========
 A simple little game that can distract your attention from the mondane world where zombies are not yet a threat. 
 Could also serve as a training simulator for the upcoming zombie apocolypse. 
+
+Now I want to play the game!
+============================
+Compile the source or download and extract the game.zip archive. Launch zombieDefense.exe and save mother brain...
