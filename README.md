@@ -29,7 +29,7 @@ Air strikes - Scatter bombs a selected area. Cannot be upgraded. Can damage barr
 
 Requirements:
 =============
-A love for zombies and silly games
+A love for zombies and silly games with bad graphics
 
 Purpose:
 ========
