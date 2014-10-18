@@ -1,0 +1,37 @@
+zombieDefense
+=============
+
+Zombie defense XNA 4.0 game
+
+Developed using Visual Studio 2010 and XNA 4.0
+
+Objective:
+==========
+Prevent the zombies from attacking the mother brain. Money is awarded for killing zombies that can be used to purchase 
+towers, mines, barricades, and air strikes. 
+
+Click and hold on your entities (or mother brain) to repair or upgrade them. 
+Towers develop a larger target radius as you heal them.
+
+To add an item to the playing field, simply click and drag it to the location on the field where you want it placed. 
+Items cannot be dropped onto other entities. 
+Right click a dropped entity to delete it.
+
+Zombies spawn at regular intervals. Zombies that are killed will respawn in addition to the regularly spawning zombies. 
+This creates an interesting swarm affect after a wide area kill by an air strike.
+
+Towers - target zombies within view radius. Can shoot over barricades. Can be upgraded to add hit points and a larger scan area.
+Mortar towers - target zombies within view radius. Cannot shoot over barricades. Can be upgraded to add hit points and a larger scan area. Explosions can damage barricades, towers, and mother brain. 
+* Towers loose health as they fire and must be healed up again.
+Mines - Explode when touched by a zombie. Cannot be upgraded. Can damage barricades, towers, and mother brain.
+Barricades - Take damage from zombies. Used to block access to protected items. Can be upgraded.
+Air strikes - Scatter bombs a selected area. Cannot be upgraded. Can damage barricades, towers, and mother brain.
+
+Requirements:
+=============
+A love for zombies and silly games
+
+Purpose:
+========
+A simple little game that can distract your attention from the mondane world where zombies are not yet a threat. 
+Could also serve as a training simulator for the upcoming zombie apocolypse. 
