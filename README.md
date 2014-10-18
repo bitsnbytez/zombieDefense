@@ -40,7 +40,7 @@ A love for zombies and silly games with bad graphics
 
 Purpose:
 ========
-This started out as an office challenge that spawned into something more...
+This started out as an office challenge that spawned into a mini game of sorts...
 
 A simple little game that can distract your attention from the mondane world where zombies are not yet a threat. 
 Could also serve as a training simulator for the upcoming zombie apocolypse. 
