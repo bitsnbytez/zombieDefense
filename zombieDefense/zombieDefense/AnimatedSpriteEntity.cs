@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Animated entity class 
+    /// </summary>
     public class AnimatedSpriteEntity : Entity
     {
         private Animation animation;

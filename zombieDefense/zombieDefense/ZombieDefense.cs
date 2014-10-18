@@ -9,6 +9,10 @@ using Microsoft.Xna.Framework.Input;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// The zombie defense game logic processor. Manages all on screen entities, gutter objects, keyboard and mouse interaction, 
+    /// currency, and maintains the magic.
+    /// </summary>
     public class ZombieDefense
     {
         public enum GutterEntityStatus

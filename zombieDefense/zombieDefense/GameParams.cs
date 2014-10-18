@@ -5,6 +5,9 @@ using System.Text;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Game parameters
+    /// </summary>
     public static class GameParams
     {
         public static int INITIAL_ZOMBIE_COUNT = 10;

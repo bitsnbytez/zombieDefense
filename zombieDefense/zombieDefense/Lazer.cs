@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Simple lazer ballistic. Draws a line between source and target entities.
+    /// </summary>
     public class Lazer : Ballistic
     {
         private int shotModifier;

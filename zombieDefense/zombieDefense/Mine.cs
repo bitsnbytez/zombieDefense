@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Mine entity. Manages entity proximity, contact explosions, and gutter detail.
+    /// </summary>
     public class Mine : AnimatedSpriteEntity
     {
         public class MineGutterDetail : GutterDetail

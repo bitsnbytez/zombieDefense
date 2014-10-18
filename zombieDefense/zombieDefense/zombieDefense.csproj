@@ -128,7 +128,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="SpriteEntity.cs" />
-    <Compile Include="Generator.cs" />
     <Compile Include="Tower.cs" />
     <Compile Include="Barricade.cs" />
     <Compile Include="Zombie.cs" />

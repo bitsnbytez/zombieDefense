@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Tower entity class. Manages target tracking and explosion when within target range.
+    /// </summary>
     public class Tower : BaseTurret
     {
         public class TowerGutterDetail : GutterDetail

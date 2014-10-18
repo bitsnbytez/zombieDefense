@@ -11,6 +11,9 @@ using Microsoft.Xna.Framework.Media;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Main game loop and input management.
+    /// </summary>
     public class Game : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;

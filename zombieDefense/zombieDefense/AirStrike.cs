@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Air strike class. Manages gutter animation and explosions.
+    /// </summary>
     public class AirStrike : SpriteEntity
     {
         public class AirStrikeGutterDetail : GutterDetail

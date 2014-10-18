@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Animation class used to manage animation frames, loops, direction, and timing.
+    /// </summary>
     public class Animation
     {
         public delegate void OnEndAnimation(Animation sender, AnimatedSpriteEntity entity, GameTime gameTime);

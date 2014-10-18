@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Sprite entity class. Manages the texture sprite and gutter detail.
+    /// </summary>
     public class SpriteEntity : Entity
     {
         protected Texture2D sprite;

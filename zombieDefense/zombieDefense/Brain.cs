@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Brain entity. Manages the Metroid brain animation and hit points 
+    /// </summary>
     public class Brain : AnimatedSpriteEntity
     {
         private Animation ani;

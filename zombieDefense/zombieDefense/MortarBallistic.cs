@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Mortar ballistic class. Manages target tracking and explosion when within target range.
+    /// </summary>
     public class MortarBallistic : Ballistic
     {
         Animation explode;

@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// The graceful zombie class. Manages animation loops depending on state, proximity to other entities, desire for brains...
+    /// </summary>
     public class Zombie : AnimatedSpriteEntity
     {
         private double dmgTime;

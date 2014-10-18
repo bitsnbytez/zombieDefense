@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Mortar tower class. Manages sight distance, textures, and gutter detail.
+    /// </summary>
     public class MortarTower : BaseTurret
     {
         public class MortarTowerGutterDetail : GutterDetail

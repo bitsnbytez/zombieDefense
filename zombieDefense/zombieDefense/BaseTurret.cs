@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Base turret class. Manages gutter detail, damage, turret rotation and animations
+    /// </summary>
     public abstract class BaseTurret : SpriteEntity
     {
         private Ballistic bullet;

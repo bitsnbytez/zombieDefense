@@ -6,6 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Ballistic class used to link source and target entities
+    /// </summary>
     public abstract class Ballistic : Entity
     {
         private Entity from;

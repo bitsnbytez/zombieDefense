@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Base entity class. Manages mouse interaction, hit points, life, and gutter control.
+    /// </summary>
     public class Entity
     {
         private static Entity mouseCaptured;

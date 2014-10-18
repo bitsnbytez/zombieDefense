@@ -7,6 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace zombieDefense
 {
+    /// <summary>
+    /// Barricade class. Manages gutter animation and hit points 
+    /// </summary>
     public class Barricade : SpriteEntity
     {
         public class BarricadeGutterDetail : GutterDetail
