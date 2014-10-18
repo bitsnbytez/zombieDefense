@@ -32,12 +32,15 @@ Barricades - Take damage from zombies. Used to block access to protected items. 
 
 Air strikes - Scatter bombs a selected area. Cannot be upgraded. Can damage barricades, towers, and mother brain.
 
+Zombies - We love to hate these guys. All the want to do is run straight for the brain and claw through whatever lies between them and the sweet nectar of grey matter. Zombies spawn with a random amount of hit points. The fast and feisty ones tend to be weaker. The slow lumbering ones can do some serious damage if not dealt with promptly.
+
 Requirements:
 =============
 A love for zombies and silly games with bad graphics
 
 Purpose:
 ========
+This started out as an office challenge that got out of control...
 A simple little game that can distract your attention from the mondane world where zombies are not yet a threat. 
 Could also serve as a training simulator for the upcoming zombie apocolypse. 
 
