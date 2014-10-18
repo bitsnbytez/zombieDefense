@@ -21,10 +21,15 @@ Zombies spawn at regular intervals. Zombies that are killed will respawn in addi
 This creates an interesting swarm affect after a wide area kill by an air strike.
 
 Towers - target zombies within view radius. Can shoot over barricades. Can be upgraded to add hit points and a larger scan area.
+
 Mortar towers - target zombies within view radius. Cannot shoot over barricades. Can be upgraded to add hit points and a larger scan area. Explosions can damage barricades, towers, and mother brain. 
-NOTE: Towers loose health as they fire and must be healed up again.
+
+NOTE: Towers and mortar towers loose health as they fire and must be healed up again.
+
 Mines - Explode when touched by a zombie. Cannot be upgraded. Can damage barricades, towers, and mother brain.
+
 Barricades - Take damage from zombies. Used to block access to protected items. Can be upgraded.
+
 Air strikes - Scatter bombs a selected area. Cannot be upgraded. Can damage barricades, towers, and mother brain.
 
 Requirements:
