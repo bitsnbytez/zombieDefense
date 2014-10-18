@@ -1,5 +1,5 @@
-zombieDefense
-=============
+Zombie Defense
+==============
 
 Zombie defense XNA 4.0 game
 
