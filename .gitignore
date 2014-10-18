@@ -1,0 +1,8 @@
+bin/
+*.user
+*.LOCAL.*
+*.REMOTE.*
+*.BASE.*
+*.pdb
+*.suo
+*.sdf
