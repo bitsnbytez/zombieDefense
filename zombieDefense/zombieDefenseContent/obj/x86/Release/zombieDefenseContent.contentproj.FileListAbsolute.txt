@@ -1,1 +1,2 @@
 C:\projects\xna\zombieDefense\zombieDefense\zombieDefenseContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\projects\zombieDefense\zombieDefense\zombieDefenseContent\obj\x86\Release\zombieDefenseContent.contentprojResolveAssemblyReference.cache
