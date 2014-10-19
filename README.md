@@ -34,6 +34,27 @@ Air strikes - Scatter bombs a selected area. Cannot be upgraded. Can damage barr
 
 Zombies - We love to hate these guys. All the want to do is run straight for the brain and claw through whatever lies between them and the sweet nectar of grey matter. Zombies spawn with a random amount of hit points. The fast and feisty ones tend to be weaker. The slow lumbering ones can do some serious damage if not dealt with promptly.
 
+How to play:
+============
+Protect the brain from the zombies by placing barricades in the path of the heard. Erect lazer towers and mortar towers to shoot at zombies. 
+
+Mines will detonate when a zombie touches it.
+
+Summon an air strike to kill a large number of zombies at once. 
+
+Heal towers and walls by holding down the mouse button over the object.
+
+Drag items into the playing area to use them to defend the brain. You must have enough credits and quota must be met for items to become available. 
+
+Press "P" to pause the game. As an added bonus, you can continue to place towers and heal defences while the zombies stand around.
+
+Press "R" to reset the game.
+
+Press "F" to toggle full screen.
+
+Press "D" (debug) to see the bounding rectangles of on screen entities as well as their target areas.
+
+
 Requirements:
 =============
 A love for zombies and silly games with bad graphics
