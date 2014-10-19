@@ -36,7 +36,6 @@ namespace zombieDefense
         AnimatedSpriteEntity effect;
         Texture2D bullet;
         Vector2 direction;
-        Vector2 destination;
         bool exploded;
 
         public MortarBallistic(ZombieDefense game, Entity from, Entity to)
